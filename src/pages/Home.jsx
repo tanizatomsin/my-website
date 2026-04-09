@@ -7,7 +7,10 @@ function Home() {
     <div>
       <h1>About Me</h1>
       <p>
-        I am a BTech student and aspiring software engineer. I love coding and building web applications.
+        I am a Computer Science Engineering student at Dhemaji Engineering College, 
+        passionate about data science and building elegant solutions through code.
+        Driven by curiosity and analytical thinking, I aim to transform data into 
+        meaningful insights and impactful solutions.
       </p>
 
       <button onClick={() => setCount(count + 1)}>
