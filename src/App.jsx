@@ -1,6 +1,3 @@
-function App(){
-  return <h1>My Portfolio Project</h1>;
-}
 
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import Home from "./pages/Home";
