@@ -7,10 +7,10 @@ function Home() {
     <div>
       <h1>About Me</h1>
       <p>
-        I am a Computer Science Engineering student at Dhemaji Engineering College, 
-        passionate about data science and building elegant solutions through code.
-        Driven by curiosity and analytical thinking, I aim to transform data into 
-        meaningful insights and impactful solutions.
+        Hi!!I am Taniza Tomsin, a Computer Science Engineering student at 
+        Dhemaji Engineering College, passionate about data science and building elegant solutions through code.
+        Driven by curiosity and analytical thinking, I aim to transform data 
+        into meaningful insights and impactful solutions.
       </p>
 
       <button onClick={() => setCount(count + 1)}>
